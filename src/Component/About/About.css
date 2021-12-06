@@ -1,0 +1,27 @@
+.about-area{
+    min-height:50vh;
+    /* background:red; */
+}
+.about-info h4{
+    font-weight:700;
+}
+
+.about-info p{
+    color:grey;
+    font-size:20px;
+    /* lines-spacing:2px; */
+}
+
+@media only screen and (max-width: 600px) {
+
+    .about-info h4{
+        font-size:25px;
+        font-weight:700;
+    }
+    .about-info p{
+        color:#000;
+        font-size:12px;
+        font-weight:600;
+        /* lines-spacing:2px; */
+    }
+  }

@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "name": "GadgetSHOP- Online laptop Seller",
+        "img_one": "https://i.ibb.co/CHVcr15/tech-one.jpg",
+        "img_two": "https://i.ibb.co/KDr1HRc/tech-two.jpg",
+        "img_three": "https://i.ibb.co/D8hvVnh/tech-three.jpg",
+        "description": "GAdgetSHOP is a online laptop seller shop. A registerer customer can purchase any top class branded laptop from here. He can choose one/more laptop, an admin of the site can clarify the payment status and manage the product.  ",
+        "features_one": "It is created with React, Bootstrap, Firebase, Node, Express and MongoDB ",
+        "features_two": "An user can order and manager their products",
+        "features_three": "A register user can review their product",
+        "features_four": "An admin can assign any user to admin",
+        "live_site": "https://laptop-shop-authentication.web.app",
+        "client_side": "https://github.com/saiful2612/laptop-shop-client-side",
+        "server_side": "https://github.com/saiful2612/laptop-shop-server-side"
+    },
+    {
+        "id": 2,
+        "name": "Travello- Online Travel Booking",
+        "img_one": "https://i.ibb.co/4T3t7pt/travel-one.jpg",
+        "img_two": "https://i.ibb.co/tQKFtm2/travel-two.jpg",
+        "img_three": "https://i.ibb.co/GRJ6vQv/travel-three.jpg",
+        "description": "Travello is an online booking agency. It helps the travller for easy ticket booking any places and making low cost travel tour all over the world. It has has travel pachakges. A regisered user can book the tour package. ",
+        "features_one": "It is created with Node, Express, MongoDB, Firebase, React & Bootstrap.",
+        "features_two": "Registered user can book tours with their family and friends can update their order or cancel it.",
+        "features_three": "Admin manage all the tour status and watches the total number of tour.",
+        "features_four": "This website is very much easy navigating for the website visitors.",
+        "live_site": "https://travel-agent-authentication.web.app",
+        "client_side": "https://github.com/saiful2612/travel-agency-client-side",
+        "server_side": "https://github.com/saiful2612/travel-agency-server-side"
+    },
+    {
+        "id": 3,
+        "name": "MediCARE- A Renowned Hospital",
+        "img_one": "https://i.ibb.co/kJL61hP/medi-one.jpg",
+        "img_two": "https://i.ibb.co/b1Q2tcs/medi-two.jpg",
+        "img_three": "https://i.ibb.co/TkyRwML/medi-three.jpg",
+        "description": "MediCARE is a private medical hospital. It has all types of modern facilities but at first you have to be regiestered here for getting any types of services. Google sign in and password authentication have been used to log in or sign in the site.",
+        "features_one": "It is built in React, react DOM, Bootstrap, Firebase.",
+        "features_two": "Applied google and password authentication.",
+        "features_three": "Registered user can book a doctro and see all the medical facilities.",
+        "features_four": "Navrgate is possible without reloading.",
+        "live_site": "https://private-hospital-authentcation.web.app",
+        "client_side": "https://github.com/saiful2612/private-medical"
+    }
+]

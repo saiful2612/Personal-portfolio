@@ -1,0 +1,29 @@
+.navbar-custom{
+    padding: 8px 0;
+    background-color:transparent;
+    /* position:fixed; */
+    /* background: #0a0101; */
+
+}
+
+.navbar-element{
+    color:lightgreen;
+    font-size:1.2rem;
+}
+
+.header-area{
+    background-image:url('https://i.ibb.co/bFzYX4N/portfolio-background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height:95vh;
+}
+
+@media only screen and (max-width: 600px) {
+    .header-area{
+      /* background: lightblue; */
+      min-height:50vh;
+    }
+  }
+
+ 
+

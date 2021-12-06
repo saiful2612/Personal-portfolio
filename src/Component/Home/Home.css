@@ -1,0 +1,31 @@
+#home{
+    /* background-color: #20c997; */
+    /* color:red; */
+}
+
+.home-area a{
+    text-decoration:none;
+    color:#000;
+    background:lightgreen;
+    padding: 10px 25px;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+.home-area a:hover{
+    color:lightgreen;
+    background:#fff;
+    border:1px solid lightgreen;
+}
+
+.name-style{
+    color:lightgreen;
+}
+
+.home-area h4{
+    color:lightskyblue;
+}
+
+.first-part{
+    color:lightskyblue !important;
+}
