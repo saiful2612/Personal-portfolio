@@ -27,6 +27,9 @@ const Header = () => {
                                 <a className="nav-link navbar-element" href="#project">Projects</a>
                             </li>
                             <li className="nav-item">
+                                <Link className="nav-link navbar-element" to="/blog">Blog</Link>
+                            </li>
+                            <li className="nav-item">
                                 <a className="nav-link navbar-element" href="#contact">Contact</a>
                             </li>
                         </ul>

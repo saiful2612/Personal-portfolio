@@ -12,6 +12,7 @@ import {
 } from "react-router-dom";
 import ItemDetail from './Component/ItemDetail/ItemDetail';
 import Home from './Component/Home/Home';
+import Blog from './Component/Blog/Blog';
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
             <About></About>
             <Project></Project>
             <Contact></Contact>
+          </Route>
+          <Route path="/blog">
+            <Blog></Blog>
           </Route>
           <Route path="/ItemDetail/:ItemDetailId">
             <ItemDetail></ItemDetail>
